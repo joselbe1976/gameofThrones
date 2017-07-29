@@ -6,4 +6,4 @@
 
 * Desarrollado en Swift 4 Beta del 16/06/2017 para IPAD e Iphone
  
-* SplitView para Ipad, CustomCells para tablas, Autolayout, UIKit Extensions, Date Extensións
+* SplitView para Ipad, CustomCells para tablas, Autolayout, UIKit Extensions, Date Extension, etc.
