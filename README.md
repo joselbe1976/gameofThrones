@@ -1,6 +1,6 @@
 # Game of Thrones
 
-** Proyecto Master de Juego de Tronos. V Master Mobile 2017. Keepcoding
+* Proyecto Master de Juego de Tronos. V Master Mobile 2017. Keepcoding
 
 * Jose Luis Bustos Esteban
 
