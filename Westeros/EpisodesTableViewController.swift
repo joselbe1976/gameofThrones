@@ -60,7 +60,7 @@ class EpisodesTableViewController: UITableViewController {
         //IMAGTEN REDIMENSIONADA
         cell.imageView?.image =  resizeImage(image: modelo.image, targetSize: CGSize(width: 90, height: 100))
         cell.titulo.text = modelo.name
-        cell.descrip.text  = modelo.descrip
+        cell.descrip.text  = modelo.dateEpisode.getStringFromDate() //poenomos la fecha
 
         return cell
     }

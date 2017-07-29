@@ -64,7 +64,7 @@ final class DataSources{
             
             cell.imageView?.image = resizeImage(image: season.image, targetSize: CGSize(width: 90, height: 100))
             cell.titulo.text = season.name
-            cell.descrip.text = season.descrip
+            cell.descrip.text =  season.dateSeason.getStringFromDate() + ". " +  season.descrip
             
             return cell
         })
